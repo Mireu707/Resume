@@ -1,3 +1,3 @@
 # 한림대학교 소프트웨어융합대학
 -----
-![사진](Mireu.jpg)
+<img src=Mireu.jpg height=150 width=150>
